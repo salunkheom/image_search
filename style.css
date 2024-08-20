@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(119, 119, 189);
+}
+
+h1{padding: 30px;
+    text-align: center;
+}
+#searchform{
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+}
+#searchresult{
+ display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+    padding-top:25px;
+   
+}
+#searchresult img{
+    height:300px;
+    width:450px;
+    padding:5px;
+    border-radius:30px;
+  
+}
+.more{width:100%;
+   display:flex;
+    justify-content:center;
+margin:25px 0px;
+    
+    background-color: rgb(119, 119, 189);;
+
+}
+#more{ 
+   
+ padding: 5px;
+    border:none ;
+   
+}
